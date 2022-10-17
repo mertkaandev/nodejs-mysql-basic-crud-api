@@ -1,5 +1,4 @@
-## Node.js and MySQL Basic Crud App
-
+## Node.js and MySQL Basic Crud Api
 Run
 
 To run this project, download it to your computer and open it with a code editor. Open `server/database/mysql/connectMysql.js` file and give it MySQL database connection informations. After you should download the packages that this project depends on from the terminal with the `npm install` command. Dependencies of this project:
